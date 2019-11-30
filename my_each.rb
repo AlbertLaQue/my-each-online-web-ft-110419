@@ -1,3 +1,4 @@
 def my_each(array)
-while 
+while array.length < 5
+
 end
